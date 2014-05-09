@@ -1,0 +1,21 @@
+{
+  "name": "Bower App",
+  "version": "0.0.1",
+  "homepage": "www.conates.cl",
+  "authors": [
+    "conates <conates.ktn@gmail.com>"
+  ],
+  "description": "Test para ver como funciona Bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],  
+  "dependencies": {
+    "jquery": "latest",
+    "modernizr":"latest",
+    "prefixfree":"latest"
+  }
+}
